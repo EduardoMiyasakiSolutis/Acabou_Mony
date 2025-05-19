@@ -11,6 +11,7 @@ Insomnia: Ferramenta para testes e validações de APIs
 GitHub: Para versionamento do projeto
 
 👥 Integrantes 
+
 Eduardo Miyasaki;
 
 João Lázaro;
