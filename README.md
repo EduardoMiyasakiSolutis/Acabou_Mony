@@ -1,4 +1,4 @@
-# Acabou_Mony
+# Acabou_Mony 🥇
 Projeto desenvolvido em Java para fins de aprendizado e desenvolvimento de habilidades.
 
 🛠️ Tecnologias Utilizadas
