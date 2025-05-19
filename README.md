@@ -9,15 +9,8 @@ Spring Boot: Framework para desenvolvimento de aplicações Java
 Insomnia: Ferramenta para testes e validações de APIs
 
 GitHub: Para versionamento do projeto
-MarkdownTools Blog
-+2
-awesome.ecosyste.ms
-+2
-Stack Overflow
-+2
 
 👥 Integrantes 
-
 Eduardo Miyasaki;
 João Lázaro;
 Maikon Douglas;
